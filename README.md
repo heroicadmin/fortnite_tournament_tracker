@@ -1,8 +1,8 @@
 # 🏆 Fortnite Tournament Leaderboard
 
-A dark-themed tournament tracker for Fortnite competitions. Upload your match results and get instant leaderboards with scoring, highlights, and trophy tracking.
+A tournament tracker for Fortnite competitions. Upload your match results and get instant leaderboards with scoring, highlights, and trophy tracking.
 
-![React](https://img.shields.io/badge/React-18-blue) ![Vite](https://img.shields.io/badge/Vite-6-purple)
+<img width="1280" height="952" alt="tt" src="https://github.com/user-attachments/assets/58fbee6c-94cf-4a88-96da-777a54e77ee2" />
 
 ---
 
